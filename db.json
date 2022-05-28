@@ -1,0 +1,31 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Statham",
+      "imgUrl": "#",
+      "desription": "Chiine nebuna",
+      "donation": 50
+    },
+    {
+      "id": 2,
+      "name": "Silvestru",
+      "imgUrl": "#",
+      "desription": "Chiine buna",
+      "donation": 100
+    },
+    {
+      "id": 3,
+      "name": "Arnold",
+      "imgUrl": "#",
+      "desription": "Pisicha frumoasa",
+      "donation": 100
+    },
+    {
+      "imgUrl": "ewr",
+      "desription": "asdasd",
+      "donation": 0,
+      "id": 4
+    }
+  ]
+}
